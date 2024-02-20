@@ -1,0 +1,134 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "ccc2329632396dc096bb638d4b46fb98",
+      "css": "mail-alt",
+      "code": 61664,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9ea0a737ccc45d6c510dcbae56058849",
+      "css": "music",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9dd9e835aebe1060ba7190ad2b2ed951",
+      "css": "search",
+      "code": 59394,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9a76bc135eac17d2c8b8ad4a5774fc87",
+      "css": "download",
+      "code": 59395,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c6be5a58ee4e63a5ec399c2b0d15cf2c",
+      "css": "reply",
+      "code": 61714,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "85528017f1e6053b2253785c31047f44",
+      "css": "comment",
+      "code": 59396,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f8aa663c489bcbd6e68ec8147dca841e",
+      "css": "folder",
+      "code": 59397,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "921e3974e54ff9e8b7cd906a3dc74636",
+      "css": "direction",
+      "code": 61732,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9f7e588c66cfd6891f6f507cf6f6596b",
+      "css": "phone",
+      "code": 59398,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4aad6bb50b02c18508aae9cbe14e784e",
+      "css": "share",
+      "code": 61920,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "77b3693facc3d803417105997b4ffe96",
+      "css": "facebook",
+      "code": 59399,
+      "src": "typicons"
+    },
+    {
+      "uid": "33cea6d7bd699348c0d593e105361a51",
+      "css": "facebook-circled",
+      "code": 59400,
+      "src": "typicons"
+    },
+    {
+      "uid": "w42gjpwdzqeszptpy1xqp8r77o6gcasj",
+      "css": "facebook-1",
+      "code": 62208,
+      "src": "modernpics"
+    },
+    {
+      "uid": "03cmb4p7niofd11yos3fpjjuvvpy7mji",
+      "css": "facebook-rect",
+      "code": 62209,
+      "src": "modernpics"
+    },
+    {
+      "uid": "0fbfb1cd7a847c88ea4c141d0e1bbdb5",
+      "css": "instagram",
+      "code": 62253,
+      "src": "entypo"
+    },
+    {
+      "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
+      "css": "instagram-1",
+      "code": 61805,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5f47b9f3e91e1d5591c20fdb885cccb2",
+      "css": "nest_cam_indoor_fill0_wght400_grad0_opsz24",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M20000-21666.7Q18625-21666.7 17645.8-22645.8T16666.7-25000Q16666.7-26375 17645.8-27354.2T20000-28333.3Q21375-28333.3 22354.2-27354.2T23333.3-25000Q23333.3-23625 22354.2-22645.8T20000-21666.7ZM11666.7-3333.3Q11666.7-4708.3 12645.8-5687.5T15000-6666.7H18333.3Q18333.3-9291.7 17062.5-11541.7T13583.3-15250Q11083.3-16875 9708.3-19458.3T8333.3-25000Q8333.3-29875 11729.2-33270.8T20000-36666.7Q24875-36666.7 28270.8-33270.8T31666.7-25000Q31666.7-22000 30250-19416.7T26333.3-15208.3Q24125-13791.7 22895.8-11541.7T21666.7-6666.7H25000Q26375-6666.7 27354.2-5687.5T28333.3-3333.3H11666.7ZM20000-16666.7Q23458.3-16666.7 25895.8-19104.2T28333.3-25000Q28333.3-28458.3 25895.8-30895.8T20000-33333.3Q16541.7-33333.3 14104.2-30895.8T11666.7-25000Q11666.7-21541.7 14104.2-19104.2T20000-16666.7Z",
+        "width": 1000
+      },
+      "search": [
+        "nest_cam_indoor_fill0_wght400_grad0_opsz24"
+      ]
+    },
+    {
+      "uid": "0129a935826b64e663b65118cadeee93",
+      "css": "nest_cam_indoor_fill0_wght400_grad0_opsz24-1",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M20000-21666.7Q18625-21666.7 17645.8-22645.8T16666.7-25000Q16666.7-26375 17645.8-27354.2T20000-28333.3Q21375-28333.3 22354.2-27354.2T23333.3-25000Q23333.3-23625 22354.2-22645.8T20000-21666.7ZM11666.7-3333.3Q11666.7-4708.3 12645.8-5687.5T15000-6666.7H18333.3Q18333.3-9291.7 17062.5-11541.7T13583.3-15250Q11083.3-16875 9708.3-19458.3T8333.3-25000Q8333.3-29875 11729.2-33270.8T20000-36666.7Q24875-36666.7 28270.8-33270.8T31666.7-25000Q31666.7-22000 30250-19416.7T26333.3-15208.3Q24125-13791.7 22895.8-11541.7T21666.7-6666.7H25000Q26375-6666.7 27354.2-5687.5T28333.3-3333.3H11666.7ZM20000-16666.7Q23458.3-16666.7 25895.8-19104.2T28333.3-25000Q28333.3-28458.3 25895.8-30895.8T20000-33333.3Q16541.7-33333.3 14104.2-30895.8T11666.7-25000Q11666.7-21541.7 14104.2-19104.2T20000-16666.7Z",
+        "width": 1000
+      },
+      "search": [
+        "nest_cam_indoor_fill0_wght400_grad0_opsz24"
+      ]
+    }
+  ]
+}
